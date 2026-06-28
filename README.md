@@ -1,14 +1,9 @@
-# Web Fullstack Training Camp 2026 资料包
+# React & Go 全栈开发训练营 2026
 
-这个目录把已登录 WPS 页面里的课程资料总目录整理成本地可浏览的 README 层级。
+> ⭐ 如果觉得这份资料有帮助，请给个 Star 支持一下！
 
-来源：
-- WPS 课程总目录：https://campus.wps.cn/contentpreview/7e5a0755-818b-46a6-ba23-8071e3a634a6
+本目录是一个 Obsidian 知识库，包含 Web 全栈开发的学习资料，涵盖前端技术（React、TypeScript）、后端开发（Go 语言、Web 框架、并发编程）以及 gRPC、云存储等进阶内容。
 
-说明：
-- 页面内容来自当前已登录浏览器会话。
-- 部分链接仍然依赖你的 WPS/Campus 登录态。
-- 少量条目在原目录中只是主题说明，没有单独链接，这里保留为备注。
 
 ## 章节导航
 
